@@ -45,7 +45,7 @@ This is a face recognition application built using Python, [Face-Recognition API
 1. Clone the repository
 ```bash
 git clone https://github.com/abrarsharif66/Facecheckin
-cd Face-recognition-app-using-Streamlit
+cd Facecheckin
 ```
 
 2. Install the dependencies
