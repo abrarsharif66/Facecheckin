@@ -44,7 +44,7 @@ This is a face recognition application built using Python, [Face-Recognition API
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/datct00/Face-recognition-app-using-Streamlit.git
+git clone https://github.com/abrarsharif66/Facecheckin
 cd Face-recognition-app-using-Streamlit
 ```
 
@@ -79,4 +79,4 @@ streamlit run Tracking.py
 4. Deployed app on Streamlit Cloud. [Click here](https://datct00-face-recognition-app-using-streamlit-tracking-sel9ym.streamlit.app/) to watch a demo of the app.
 
 ## Contact
-If you have any questions, feel free to contact me via email: `chungtiendat8102000@gmail.com`
+If you have any questions, feel free to contact me via email: `abrarsharif66@gmail.com`
