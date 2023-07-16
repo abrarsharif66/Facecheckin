@@ -65,18 +65,5 @@ streamlit run Tracking.py
 4. Viewing the database
 
 
-## Demo
-
-1.  Tracking using camera
-![Tracking using webcam](assets/webcam.gif) 
-
-2. Tracking using picture 
-![Tracking using picture](assets/tracking.png)
-
-3. Adding new person to database
-![Adding new person to database](assets/adding.png)
-
-4. Deployed app on Streamlit Cloud. [Click here](https://datct00-face-recognition-app-using-streamlit-tracking-sel9ym.streamlit.app/) to watch a demo of the app.
-
 ## Contact
 If you have any questions, feel free to contact me via email: `abrarsharif66@gmail.com`
