@@ -1,6 +1,6 @@
-# Face recognition app using Streamlit
+# Face recognition attendance system app using Streamlit
 
-This is a face recognition application built using Python, [Face-Recognition API](https://github.com/ageitgey/face_recognition) and Streamlit framework. The app allows users to upload an image containing faces and performs face recognition using the face recognition library.
+This is a face recognition attendance application built using Python, [Face-Recognition API](https://github.com/ageitgey/face_recognition) and Streamlit framework. The app allows users to upload an image containing faces and performs face recognition using the face recognition library.
 
 ## Features
 
@@ -8,6 +8,7 @@ This is a face recognition application built using Python, [Face-Recognition API
 - Multi-face recognition
 - Option to display recognized faces
 - User-friendly interface
+- storing attendance in CSV file
 
 ## Requirements 
 - Python 3.9
