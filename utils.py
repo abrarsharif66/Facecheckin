@@ -117,10 +117,10 @@ def build_dataset():
         pkl.dump(information,f)
 
 def mark(name, id):
-    #t.sleep(6)
+    # This function keeps track of faces detected and stores name, roll no, date and time in att_csv file
     ts = time.time()
     date=datetime.fromtimestamp(ts).strftime("%d-%m-%Y")
-    timestamp=datetime.fromtimestamp(ts).strftime("%H:%M:%S")
+    timestamp=datetime.fromtimestamp(ts).strftime("%H:%M")
     exist=os.path.isfile("Attendance/att_" + date + ".csv")
 
     ate = [str(name), str(id),str(date),str(timestamp)]

@@ -73,7 +73,7 @@ elif choice == "Webcam":
         name_container.info(f"Name: {name}")
         id_container.success(f"ID: {id}")
         FRAME_WINDOW.image(image)
-        mark(name, id)
+        mark(name, id)#marks attendance
 
 with st.sidebar.form(key='my_form'):
     st.title("Developer Section")
